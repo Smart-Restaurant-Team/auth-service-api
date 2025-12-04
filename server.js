@@ -12,7 +12,6 @@ import { HeaderMiddlware } from './src/middlewares/Header.middleware.js';
 // })
 
 const port = process.env.PORT || 8080;
-
 const app = express();
 
 // middleware
